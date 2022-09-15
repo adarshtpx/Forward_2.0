@@ -1,4 +1,4 @@
-# Forward_2.0
+# Forward Bitcher 1.0
 
 * Bot to forward messages from one channel to other without admin permission in source channel.
 * Can be used for both private and Public channels.
@@ -7,7 +7,7 @@
 * For Public Channels Bot is used to forward , Thanks to [DⱥℝkAngel](https://github.com/Jijinr) for his [Frwdit](https://github.com/Jijinr/Frwdit).
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Forward_2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adarshtpx/Forward_2.0)
 
 
 
@@ -27,4 +27,5 @@
 ### Credits
 * [DⱥℝkAngel](https://github.com/Jijinr) for his [Frwdit](https://github.com/Jijinr/Frwdit)
 * [Rahul](https://github.com/rahulps1000) for his [ForwardBot](https://github.com/rahulps1000/ForwardBot)
+* [Subin](https://github.com/subinps) for his [Forward2.0]
 
